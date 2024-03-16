@@ -1,0 +1,14 @@
+D:\shua\modul3_1302223119\modul3_1302223119\bin\Debug\net8.0\modul4_1302223119.exe
+D:\shua\modul3_1302223119\modul3_1302223119\bin\Debug\net8.0\modul4_1302223119.deps.json
+D:\shua\modul3_1302223119\modul3_1302223119\bin\Debug\net8.0\modul4_1302223119.runtimeconfig.json
+D:\shua\modul3_1302223119\modul3_1302223119\bin\Debug\net8.0\modul4_1302223119.dll
+D:\shua\modul3_1302223119\modul3_1302223119\bin\Debug\net8.0\modul4_1302223119.pdb
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.GeneratedMSBuildEditorConfig.editorconfig
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.AssemblyInfoInputs.cache
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.AssemblyInfo.cs
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.csproj.CoreCompileInputs.cache
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.dll
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\refint\modul4_1302223119.dll
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.pdb
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\modul4_1302223119.genruntimeconfig.cache
+D:\shua\modul3_1302223119\modul3_1302223119\obj\Debug\net8.0\ref\modul4_1302223119.dll
